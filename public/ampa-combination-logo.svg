@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 64" fill="none">
+  <!-- Minimalist Sartorial Emblem (Tailored Suit Lapel + Hanger + Crown Diamond) -->
+  <g transform="translate(4, 6)">
+    <!-- Outer Diamond / Shield Contour -->
+    <path d="M26 2L48 15V37L26 50L4 37V15L26 2Z" stroke="#B7794D" stroke-width="1.6" stroke-linejoin="round"/>
+    <!-- Inner Sartorial Suit Jacket Lapels (V-Lapel Silhouette) -->
+    <path d="M15 16L26 33L37 16" stroke="#1B201A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M15 16L11 26L21 31L26 43L31 31L41 26L37 16" stroke="#1B201A" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Golden Tie / Needle Accent in Center -->
+    <path d="M26 14L29 19L26 31L23 19L26 14Z" fill="#B7794D"/>
+    <!-- Top Crown / Hanger Hook Dot -->
+    <circle cx="26" cy="9" r="1.8" fill="#B7794D"/>
+  </g>
+
+  <!-- Vertical Hairline Divider -->
+  <line x1="66" y1="11" x2="66" y2="53" stroke="#B7794D" stroke-width="1" stroke-opacity="0.55"/>
+
+  <!-- Custom Architectural Wordmark: A M P A -->
+  <g fill="#1B201A">
+    <!-- Letter A -->
+    <path d="M93 13H96.5L108 40H103.8L94.75 18.2L85.7 40H81.5L93 13Z"/>
+    <rect x="87.5" y="30.5" width="14.5" height="2.2" fill="#B7794D"/>
+
+    <!-- Letter M -->
+    <path d="M120 13H123.5L133.5 31.5L143.5 13H147V40H143.2V20.8L134.8 36.2H132.2L123.8 20.8V40H120V13Z"/>
+
+    <!-- Letter P -->
+    <path d="M161 13H172.5C178.2 13 182 16.3 182 21.4C182 26.5 178.2 29.8 172.5 29.8H164.8V40H161V13ZM164.8 16.4V26.4H172.2C175.9 26.4 178.1 24.5 178.1 21.4C178.1 18.3 175.9 16.4 172.2 16.4H164.8Z"/>
+
+    <!-- Letter A -->
+    <path d="M201 13H204.5L216 40H211.8L202.75 18.2L193.7 40H189.5L201 13Z"/>
+    <rect x="195.5" y="30.5" width="14.5" height="2.2" fill="#B7794D"/>
+  </g>
+
+  <!-- Signature Baseline with Golden Flanking Lines -->
+  <line x1="81" y1="49" x2="96" y2="49" stroke="#B7794D" stroke-width="1.2"/>
+  <text x="102" y="52" fill="#6E6E65" font-family="Inter, Arial, sans-serif" font-size="7.8" font-weight="600" letter-spacing="2.6">MAISON D’ÉLÉGANCE · DAKAR</text>
+</svg>
